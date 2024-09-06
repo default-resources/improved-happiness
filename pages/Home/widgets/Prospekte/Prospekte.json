@@ -3,7 +3,6 @@
     "borderColor": "#ffffff",
     "isCanvas": true,
     "iconSVG": "/static/media/icon.9e3d67c0af9c0bd092dc56240314e18a.svg",
-    "displayName": "Tabs",
     "topRow": 15,
     "bottomRow": 106,
     "parentRowSpace": 10,
