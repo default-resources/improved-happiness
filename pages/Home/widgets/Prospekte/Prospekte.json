@@ -341,7 +341,6 @@
     "version": 3,
     "tags": ["Layout"],
     "isLoading": false,
-    "borderRadius": "1.5rem",
     "originalBottomRow": 61,
     "mobileBottomRow": 21,
     "widgetName": "Prospekte",
@@ -431,6 +430,5 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 104,
     "minDynamicHeight": 15
 }
